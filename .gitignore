@@ -1,0 +1,16 @@
+
+## -- BLOCK:make-h --
+*~
+## -- BLOCK:make-h --
+## -- BLOCK:c --
+*.o
+*.a
+*.so
+*.so.*
+TAGS
+FLYCHECK
+.make.*
+.build
+## -- BLOCK:c --
+## -- BLOCK:license --
+## -- BLOCK:license --
